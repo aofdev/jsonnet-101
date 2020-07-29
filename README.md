@@ -15,7 +15,7 @@ jsonnet example/main.jsonnet --tla-str country="th" --tla-str env="dev"
 ## Testing
 
 ```sh
-jsonnet tests/test_api.jsonnet
+jsonnet example/tests/test_api.jsonnet
 ```
 
 ## Formatter

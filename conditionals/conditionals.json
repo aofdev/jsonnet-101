@@ -1,0 +1,10 @@
+{
+   "bot_debug": {
+      "command": "run bot1 --debug",
+      "name": "bot1"
+   },
+   "bot_prod": {
+      "command": "run bot2 --prod",
+      "name": "bot2"
+   }
+}

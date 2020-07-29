@@ -1,0 +1,21 @@
+{
+   "env": [
+      "dev",
+      "staging",
+      "production"
+   ],
+   "mongo": {
+      "db": "test_mongo",
+      "host": "10.0.0.0",
+      "password": "password",
+      "port": 27017,
+      "user": "root"
+   },
+   "mysql": {
+      "db": "test_mysql",
+      "host": "12.0.0.0",
+      "password": "password",
+      "port": 3307,
+      "user": "root"
+   }
+}

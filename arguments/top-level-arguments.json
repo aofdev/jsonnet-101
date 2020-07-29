@@ -1,0 +1,4 @@
+{
+   "image": "<dockerimage>:33e44e5",
+   "production_env": "production"
+}

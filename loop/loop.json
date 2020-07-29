@@ -1,0 +1,16 @@
+{
+  "bots": [
+    {
+      "country": "TH",
+      "name": "bot_TH"
+    },
+    {
+      "country": "SG",
+      "name": "bot_SG"
+    },
+    {
+      "country": "USA",
+      "name": "bot_USA"
+    }
+  ]
+}

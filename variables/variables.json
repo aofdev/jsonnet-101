@@ -1,0 +1,10 @@
+{
+  "api1": {
+    "country": "Thailand",
+    "host": "10.0.0.0"
+  },
+  "api2": {
+    "country": "Thailand",
+    "host": "11.0.0.0"
+  }
+}

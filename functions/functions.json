@@ -1,0 +1,10 @@
+{
+   "person1": {
+      "name": "Aof",
+      "welcome": "Hello Aof!"
+   },
+   "person2": {
+      "name": "John",
+      "welcome": "Hello John!"
+   }
+}

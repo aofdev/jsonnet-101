@@ -1,6 +1,6 @@
 # jsonnet-101
 
-## Installation Jsonnet
+## Installation
 
 ```sh
 brew install jsonnet

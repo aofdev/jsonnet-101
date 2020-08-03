@@ -1,6 +1,6 @@
 {
   env: "init env",
   country:: "init country",
-  show: "inti show",
+  show: "init show",
   hidden:: "init hidden"
 }

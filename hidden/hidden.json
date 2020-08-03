@@ -1,4 +1,4 @@
 {
    "env": "init env",
-   "show": "inti show"
+   "show": "init show"
 }
